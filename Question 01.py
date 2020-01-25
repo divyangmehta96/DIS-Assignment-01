@@ -10,6 +10,7 @@ n – number of lines for the pattern, integer (int)
  * returns      : N/A
  * return type  : void
  '''
+
 n = 7
 
 for i in range(n,0,-1):
